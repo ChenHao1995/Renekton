@@ -1,0 +1,19 @@
+{
+  "name": "renekton",
+  "version": "1.0.0",
+  "description": "小程序",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChenHao1995/Renekton.git"
+  },
+  "author": "chenhao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChenHao1995/Renekton/issues"
+  },
+  "homepage": "https://github.com/ChenHao1995/Renekton#readme"
+}
