@@ -1,3 +1,9 @@
 <view class="container" >
   首页
+  <picker class="" mode="date" >
+    选择日期
+  </picker>
+  <view class="" hover-class="none" hover-stop-propagation="false" bindtap = "chooseList">
+    选择列表
+  </view>
 </view>
